@@ -1,4 +1,4 @@
-# AI-Powered Movie Recommendation System
+# ML-Powered Movie Recommendation System
 
 ## Overview
 This project implements an intelligent movie recommendation system using machine learning algorithms. The system analyzes user preferences and viewing history through collaborative filtering techniques to provide personalized movie recommendations. By leveraging user similarity metrics and rating patterns, the system identifies movies that align with individual user preferences, enhancing the overall user experience.
@@ -70,12 +70,12 @@ The system works with the following data files:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Gunashekhar4/AI-Powered-Movie-Recommendation-System.git
+git clone https://github.com/Gunashekhar4/ML-Powered-Movie-Recommendation-System.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd AI-Powered-Movie-Recommendation-System
+cd ML-Powered-Movie-Recommendation-System
 ```
 
 3. Install the required dependencies:
@@ -99,7 +99,7 @@ To run the `Movie-Recommendation-System.py` file and get movie recommendations, 
 
 4. **Navigate to the directory where the Movie-Recommendation-System.py file is located:**
    ```bash
-   cd AI-Powered-Movie-Recommendation-System
+   cd ML-Powered-Movie-Recommendation-System
    ```
 
 5. **Run the script:**
@@ -208,7 +208,7 @@ Extract Recommendations → Sort by Rating → Return Top N Movies
 
 ## Project Structure
 ```
-AI-Powered-Movie-Recommendation-System/
+ML-Powered-Movie-Recommendation-System/
 ├── README.md
 ├── requirements.txt
 ├── Movie-Recommendation-System.py
